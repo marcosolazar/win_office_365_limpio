@@ -1,5 +1,5 @@
 # office_365_limpio
-![](https://github.com/user-attachments/assets/c6e22200-9c27-4f11-bded-63ca2774fadd)
+[center]![](https://github.com/user-attachments/assets/c6e22200-9c27-4f11-bded-63ca2774fadd)[/center]
 
 
 Desinstala completamente cualquier paquetería de Office y actualiza a Microsoft Office en una sola interface.
